@@ -1,0 +1,6 @@
+1. The terminal is a way to navigate through your computer. The language that the terminal uses is bash. You can change folders, and add or remove files. In addition to this, the terminal allows the user to run other commands on the computer. One of the more common reasons to use the terminal is to allow for the utilization of github.
+
+2. Git is a system that allows users to implement version control which allows users to keep track pf changes to their code. Github is a hosting service on the cloud that lets user store and manage Git Repositories.
+
+3. We use github to keep track of code history (changes made to code). We also use it to be anle to collaborate on projects with the use of branches.
+
